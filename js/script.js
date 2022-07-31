@@ -14,7 +14,7 @@ $(document).ready(function(){
         $(".item5").text(item5Input);
 
 
-        $("#official").show();
+        $(".items").show();
 
         event.preventDefault();
        
